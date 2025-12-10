@@ -32,6 +32,8 @@ REQUIRES = [
     "typing-extensions >= 4.7.1",
     "websockets >= 12.0.0",
     "eth-account >= 0.13.4",
+    "eth-abi >= 5.2.0",
+    "web3 >= 7.11.0",
     "requests >= 2.31.0",
 ]
 
